@@ -1,0 +1,56 @@
+body {
+    color: #385173;
+    background-color: #c7b198;
+}
+.imagen {
+    width: 15%;
+    border: 3px solid #804000;
+    float: right;
+}
+.imagen2 {
+    width: 15%;
+    border: 2px solid #804000;
+    float: right;
+}
+    /* visited link */
+    a:visited {
+    color: #00b7c2;
+    }
+    /* mouse over link */
+    a:hover {
+    color: #ea8aea;
+}
+body{
+    background-color: #c7b198;
+}
+#zona-encabezado {
+    width: 96%;
+    background-color:#dfd3c3 ;
+    }
+.texto-encabezado{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: #385173;
+}
+#zona-imagenes{
+    width: 95%;
+    background-color: #dfd3c3;
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+.texto-cuerpo{
+    font-size: medium;
+    font: size 75px;;
+    color:#385173;
+}
+#zona-final {
+    width: 95%;
+    background-color: #a6b1e1;
+}
+.texto-final {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: #9973e2;
+}
