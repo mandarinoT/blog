@@ -44,7 +44,7 @@ img{
     width: 20%;
 }
 #zona-cuerpo{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;;
     font-size: 15px;
     color: #385173;
 }
@@ -67,10 +67,10 @@ img{
 #zona-final {
     width: 125%;
     background-color: #d8b5b5;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia,'Times New Roman', Times, serif;
 }
 .texto-final {
-    font-family:'Times New Roman', Times, serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     color: #9973e2;
 }
